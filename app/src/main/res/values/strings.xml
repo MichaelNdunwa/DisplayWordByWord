@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Display Word By Word</string>
+    <string name="about_michael">Hello dear, Michael is a professional satellite dish and cctv
+        camera installer, he is currently learning native android app development with:
+        kotlin programing language.</string>
+    <string name="clear">Clear</string>
+    <string name="show">Show</string>
+</resources>
